@@ -30,3 +30,8 @@ vscode:
     - aliariff.vscode-erb-beautify
     - eamodio.gitlens
     - setobiralo.erb-commenter
+source "https://rubygems.org"
+
+gem "puma"
+gem "sinatra"
+
